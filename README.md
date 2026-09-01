@@ -1,6 +1,6 @@
 Kangelaste meeskond vs BOSS
 
-Vanilla HTML/CSS/JavaScript mäng, kus juhid kangelaste meeskonda ("Tank", "Mehaanik", "Ründaja") lahingus bossi ("Varju-Boss") vastu.
+Vanilla HTML/CSS/JavaScript mäng, kus juhid kangelaste meeskonda lahingus bossi vastu.
 
 Tehnoloogiad
 HTML — struktuur
